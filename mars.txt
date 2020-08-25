@@ -2,3 +2,5 @@ Spacship is fueled and we are rady to blast off to mars
 We are docked in Spacestation, waiting for slinshot to mars
 We are approaching mars, ready to landing
 We have landed successfully on mars, it is strangely orange 
+The rover is going crazy on mars
+Rover is scooping soil from the planet
